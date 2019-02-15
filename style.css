@@ -24,11 +24,12 @@ section {
 }
 
 article {
+    border: 1px solid;
     position: relative;
     left: 10px;
-    top: 50px;
+    top: 30px;
     width: 475px;
-    height: 350px;
+    height: 370px;
     color: #ebebeb;
     background: #777;
 }
@@ -37,7 +38,7 @@ div    {
     position: relative;
     left: 20px;
     top: 50px;
-    width: 400px;
+    width: 430px;
 }
 
 h1, p {
@@ -47,7 +48,13 @@ h1, p {
 }
 
 aside {
-    top: 20px;
+    top: 22px;
     float: right;
     width: 450px;
+}
+
+#inverted {
+    vertical-align: 100px;
+    color: #ebebeb;
+    background: #777;
 }
