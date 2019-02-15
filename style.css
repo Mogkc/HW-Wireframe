@@ -16,7 +16,7 @@ header, nav, section,
 
 section, aside {
     position: relative;
-    height: 500px;
+    height: 400px;
 }
 
 section {
@@ -27,9 +27,9 @@ article {
     border: 1px solid;
     position: relative;
     left: 10px;
-    top: 30px;
+    top: 10px;
     width: 475px;
-    height: 370px;
+    height: 300px;
     color: #ebebeb;
     background: #777;
 }
